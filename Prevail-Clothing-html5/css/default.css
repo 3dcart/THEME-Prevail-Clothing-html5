@@ -4,8 +4,8 @@
  * Date: Tue, Sept 23 2014
 */
 
-@import url('http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800');
-@import url('http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700');
 
 /*body:: Controls website background and any other text outside of a table without an associated style.*/ 	
 body {
@@ -670,6 +670,9 @@ aside .module .name a {
 
 #viewCart .shipQuote .btn_over,
 #viewCart .shipQuote button:hover { width:auto;}
+
+#viewCart .shipquoteint-action .btn_over,
+#viewCart .shipquoteint-action button:hover { width:auto;}
 
 #viewCart .btn,
 #checkoutSinglePage .btn,
